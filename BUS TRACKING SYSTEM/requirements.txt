@@ -1,0 +1,8 @@
+Flask==3.0.0
+Flask-Cors==4.0.0
+supabase==2.10.0
+websockets>=14.0
+python-dotenv==1.0.0
+bcrypt==4.0.1
+PyJWT==2.8.0
+gunicorn==23.0.0
